@@ -71,7 +71,7 @@ def rental_data(
     total_pages = get_total_pages(search_result_first_page)
 
     if total_pages:
-        print(f"{total_pages[0]}. \n" f"Всего страниц: {total_pages[1]}")
+        print(f"{total_pages[0]}.\nВсего страниц: {total_pages[1]}")
     else:
         print("Нет объявлений. Задайте другие параметры поиска.")
         exit()
