@@ -1,0 +1,30 @@
+cities:
+  0: ""
+  1: "almaty"
+  2: "astana"
+  3: "shymkent"
+  4: "abay-oblast"
+  5: "akmolinskaja-oblast"
+  6: "aktjubinskaja-oblast"
+  7: "almatinskaja-oblast"
+  8: "atyrauskaja-oblast"
+  9: "vostochno-kazahstanskaja-oblast"
+  10: "zhambylskaja-oblast"
+  11: "jetisyskaya-oblast"
+  12: "zapadno-kazahstanskaja-oblast"
+  13: "karagandinskaja-oblast"
+  14: "kostanajskaja-oblast"
+  15: "kyzylordinskaja-oblast"
+  16: "mangistauskaja-oblast"
+  17: "pavlodarskaja-oblast"
+  18: "severo-kazahstanskaja-oblast"
+  19: "juzhno-kazahstanskaja-oblast"
+  20: "ulitayskay-oblast"
+  
+furniture:
+  False: ""
+  True: "&das[live.furniture]=1"
+
+owner:
+  False: ""
+  True: "&das[who]=1"
